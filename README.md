@@ -7,7 +7,7 @@
 - Python
 - Excel
 
-  ## Methodologies
+## Methodologies
 - Data wrangling
 - Data merging
 - Deriving variables
