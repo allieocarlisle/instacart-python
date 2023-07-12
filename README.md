@@ -6,3 +6,10 @@
 ## Technologies Used
 - Python
 - Excel
+
+  ## Methodologies
+- Data wrangling
+- Data merging
+- Deriving variables
+- Grouping data
+- Aggregating data
